@@ -1,7 +1,7 @@
 ---
 title: "Introduction to R Programming"
-author: "Sana Rasheed"
-date: "May 14, 2020"
+author: "Muhammad Asif"
+date: "May 14, 2021"
 output: html_document
 ---
 
@@ -23,7 +23,9 @@ output: html_document
 
 
 ```{r }
-#### Start solution ####
+fname <- c("M","U","H","A","M","M","A","D")
+conc_fname = paste(fname,collapse ="" )
+conc_fname
 ```
 
 
